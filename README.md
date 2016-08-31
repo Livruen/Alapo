@@ -1,12 +1,12 @@
-# Alapo
+# Alapo and other games 
 ### Two games that looks a little bit like chess
+Copyright 2016, Natasza Szczypien, All rights reserved.
 
 It was my homework in my university. 
 I worked the first time with JavaFXSCeneBuilder 2.0 and JavaFX, so the code for the GUI part is pretty messy ;(
 The design was made completely by myself.
-Copyright 2016, Natasza Szczypien, All rights reserved.
 
-I integrated some design patterns:
+Used design patterns:
 - Strategy pattern - for the pawn behaviours
 - MVC - for the GUI part
 - Abstract Fabric - generates the pawns for the board
