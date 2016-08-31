@@ -1,0 +1,1 @@
+    [javac] Compiling 28 source files to /home/hoeppner/labtest/i-prg-i-ss2016/Gruppe27/prg-labor/bin

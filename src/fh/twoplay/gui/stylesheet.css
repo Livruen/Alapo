@@ -1,0 +1,37 @@
+
+.label {
+	  -fx-background-color:#b96645;
+
+}
+.text {
+	-fx-text-fill:#4a1601;
+}
+
+.light_board_places{
+     /* -fx-background-color:#FFCB64;*/
+
+      -fx-background-color:#fcd4c4;
+
+
+}
+
+.dark_board_places{
+ /*     -fx-background-color:#A16C00;*/
+   
+-fx-background-color:#4a1601;
+
+}
+
+.white{
+-fx-background-color:#4a1601;
+    /* -fx-background-color:#b96645;*/
+}
+
+.black{
+      -fx-background-color:#000000;
+}
+
+.frame{
+      -fx-background-color:#503602;
+}
+

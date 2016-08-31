@@ -1,0 +1,33 @@
+7 |SB SB SB SB SB SB SB 
+6 |SB SB SB SB SB SB SB 
+5 |.. .. .. .. .. .. .. 
+4 |.. .. .. .. .. .. .. 
+3 |.. .. .. .. .. .. .. 
+2 |WB WB WB WB WB WB WB 
+1 |WB WB WB WB WB WB WB 
+------------------------[0:0] 
+   A  B  C  D  E  F  G
+6 |ST SL SD SD SL ST 
+5 |st sl sd sd sl st 
+4 |.. .. .. .. .. .. 
+3 |.. .. .. .. .. .. 
+2 |wt wl wd wd wl wt 
+1 |WT WL WD WD WL WT 
+------------------------[0:0] 
+   A  B  C  D  E  F  
+Illegal position or pawn.
+Illegal position or pawn.
+Illegal position or pawn.
+Illegal position or pawn.
+6 |ST SL SD SD SL ST 
+5 |SB SB SB SB SB SB 
+4 |.. .. .. .. .. .. 
+3 |.. .. .. .. .. .. 
+2 |WB WB WB WB WB WB 
+1 |WT WL WD WD WL WT 
+------------------------[2:2] 
+   A  B  C  D  E  F  
+Abnahme vom 2016-05-10T11:20:34.905
+Tests bestanden: 68
+Tests fehlgeschlagen: 0
+
