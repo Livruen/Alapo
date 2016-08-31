@@ -1,4 +1,5 @@
 # Alapo and other games 
+
 ### Two games that looks a little bit like chess
 Copyright 2016, Natasza Szczypien, All rights reserved.
 
