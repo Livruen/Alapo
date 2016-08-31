@@ -144,7 +144,7 @@
                                              <children>
                                                 <ImageView fitHeight="41.0" fitWidth="46.0" layoutX="32.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
                                                    <image>
-                                                      <Image url="@../../../../../../../Dropbox/Semester%204/Programmieren%202/FX/playerWhite.png" />
+                                                      <Image url="@playerWhite.png" />
                                                    </image>
                                                 </ImageView>
                                                 <Label layoutX="93.0" layoutY="43.0" prefHeight="42.0" prefWidth="110.0" styleClass="light_board_places" text=" Score" />
@@ -155,7 +155,7 @@
                                              <children>
                                                 <ImageView fitHeight="43.0" fitWidth="45.0" layoutX="30.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
                                                    <image>
-                                                      <Image url="@../../../../../../../Dropbox/Semester%204/Programmieren%202/FX/playerBlack.png" />
+                                                      <Image url="@playerBlack.png" />
                                                    </image>
                                                 </ImageView>
                                                 <Label layoutX="94.0" layoutY="43.0" prefHeight="41.0" prefWidth="110.0" styleClass="light_board_places" text=" Score" />
