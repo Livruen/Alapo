@@ -17,5 +17,5 @@ Used design patterns:
 2. You need JavaFX to run the GUI Game - here is a tutorial : http://download.java.net/general/javafx/eclipse/tutorial.html
 
 ## Run
-Console game: fh.twoplay.games.PlayGame.java
-Game with gui: fh.twoplay.gui.GuiBoard.java
+1. Console game: fh.twoplay.games.PlayGame.java
+2. Game with gui: fh.twoplay.gui.GuiBoard.java
