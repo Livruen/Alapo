@@ -19,3 +19,6 @@ Used design patterns:
 ## Run
 1. Console game: fh.twoplay.games.PlayGame.java
 2. Game with gui: fh.twoplay.gui.GuiBoard.java
+
+
+![alt text]( https://github.com/Livruen/Alapo/blob/master/Bilder/Alapo.png)
